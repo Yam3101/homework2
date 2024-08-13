@@ -1,14 +1,18 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #e6e6e6;
 }
 
 .navbar {
     display: flex;
     place-items: center;
     justify-content: space-between;
+    padding: 5px;
     padding-right: 15px;
     padding-left: 15px;
+    background-color: #272727;
+    color: #fff;
 }
 
 .title-main {
@@ -20,9 +24,8 @@ body {
 .elements-nav {
     display: flex;
     gap: 10px;
-    font-size: 14px;
 }
 
 .title-elements {
-    font-family: verdana;
+    font-family: arial;
 }
