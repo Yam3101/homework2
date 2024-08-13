@@ -1,5 +1,14 @@
+.navbar {
+    display: flex;
+}
+
 .title-main {
     font-family: arial;
+}
+
+.elements-nav {
+    display: flex;
+    gap: 5px;
 }
 
 .title-elements {
